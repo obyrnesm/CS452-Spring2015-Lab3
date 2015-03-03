@@ -1,1 +1,3 @@
-name, date, description
+Sean O'Byrne
+3/2/2015
+Lighting and rotation of objects in webGL
